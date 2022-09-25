@@ -1,0 +1,21 @@
+{
+	"color": "#ffdcffb8",
+	"description": "",
+	"display_name": "",
+	"display_name_bool": false,
+	"id": "character-1658646476.json",
+	"mirror_portraits": false,
+	"name": "Sign",
+	"nickname": "",
+	"nickname_bool": false,
+	"offset_x": 0,
+	"offset_y": 0,
+	"portraits": [
+		{
+			"name": "Default",
+			"path": ""
+		}
+	],
+	"scale": 100,
+	"theme": ""
+}

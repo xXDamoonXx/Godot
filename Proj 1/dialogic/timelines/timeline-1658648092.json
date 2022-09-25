@@ -1,0 +1,15 @@
+{
+	"events": [
+		{
+			"character": "character-1658646476.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Congrats, you got 5 Cybermen!"
+		}
+	],
+	"metadata": {
+		"dialogic-version": "1.4.3",
+		"file": "timeline-1658648092.json",
+		"name": "Finish"
+	}
+}

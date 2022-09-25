@@ -1,0 +1,51 @@
+{
+	"events": [
+		{
+			"character": "character-1658646476.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "Doctor, use 'A' & 'D' to move around, 'W' to jump, and 'SPACEBAR' to use your sonic"
+		},
+		{
+			"character": "character-1658646422.json",
+			"event_id": "dialogic_001",
+			"portrait": "",
+			"text": "*Sigh*"
+		},
+		{
+			"character": "character-1658646476.json",
+			"event_id": "dialogic_010",
+			"options": [
+
+			],
+			"portrait": "",
+			"question": "Are you ready for the dangers ahead?"
+		},
+		{
+			"choice": "Yes",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"emit_signal": "Yes",
+			"event_id": "dialogic_040"
+		},
+		{
+			"choice": "No",
+			"condition": "",
+			"definition": "",
+			"event_id": "dialogic_011",
+			"value": ""
+		},
+		{
+			"event_id": "dialogic_013"
+		}
+	],
+	"metadata": {
+		"dialogic-version": "1.4.3",
+		"file": "timeline-1658646641.json",
+		"name": "Start"
+	}
+}
