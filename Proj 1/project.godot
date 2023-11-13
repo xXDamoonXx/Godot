@@ -80,7 +80,7 @@ _global_script_class_icons={
 
 [application]
 
-config/name="First Godot Project"
+config/name="2DGame"
 run/main_scene="res://Scenes/World.tscn"
 config/icon="res://Sprites/icon.png"
 
